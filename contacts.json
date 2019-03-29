@@ -9814,49 +9814,49 @@
         {
                 "id": "c9999",
                 "name": "Opprobrium",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The celebrity chef earned opprobrium when she made a racial slur in front of the media.",
+                "pronounciation": "/əˈprəʊbrɪəm/(अप्रोब्रीअम)",
                 "alphabet" : "O",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "harsh criticism or censure",
+                    "home": "तिरस्कार; बदनामी; अपमान; कलंक",
+                    "synonym": ""
                 }
         },
         {
                 "id": "c9999",
                 "name": "Opulence",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Although the hotel was filled with spectacular opulence, its room rates were surprisingly affordable.",
+                "pronounciation": "/ˈɒpjʊl(ə)ns,ˈɒpjʊləns/(आप्यलन्स)",
                 "alphabet" : "O",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "great wealth or luxuriousness",
+                    "home": "धन-सम्पत्ति; बहुतायत; समृद्धि",
+                    "synonym": "luxuriousness, luxury, magnificence, sumptuousness"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Originate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The sounds appear to originate from my noisy neighbor’s house.",
+                "pronounciation": "/əˈrɪdʒɪneɪt,ɒˈrɪdʒɪneɪt/(अरिजनेट)",
                 "alphabet" : "O",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to occur or begin; have a specified beginning",
+                    "home": "प्रारंभ होना; आरंभ होना; जन्माना; उत्पन्न करना",
+                    "synonym": "initiate, start, arise, develop, grow"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Oscillate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Though you cannot see it, sound waves constantly oscillate as they travel through the air.",
+                "pronounciation": "/ˈɒsɪleɪt/(आसलेट)",
                 "alphabet" : "O",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "move or swing back and forth in a regular rhythm",
+                    "home": "झूलना; डोलना; थरथराना; हिलाना",
+                    "synonym": "vibrate, hover, vacillate, sway"
                 }
         },
         {
