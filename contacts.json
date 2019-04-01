@@ -9502,13 +9502,13 @@
         {
                 "id": "c9999",
                 "name": "Noisome",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The dog’s noisome odor is making me physically ill.",
+                "pronounciation": "/ˈnɔɪs(ə)m/(नॉइसम)",
                 "alphabet" : "N",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "disgusting in smell",
+                    "home": "बहुत गंदा; दुर्गंध; बदबूदार",
+                    "synonym": "unpleasant, repugnant, nasty, distasteful, displeasing"
                 }
         },
         {
