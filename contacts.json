@@ -2337,2270 +2337,2259 @@
         {
                 "id": "c9999",
                 "name": "Cache",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When digging in the backyard, I discovered a cache of antique coins.",
+                "pronounciation": "/kaʃ/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a hidden supply of something;a hidden storage space",
+                    "home": "गुप्त भंडार; गुप्त जगह",
+                    "synonym": "store, stockpile, stock"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cacophony",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When the actor walked into the theater, there was a cacophony of screams from the reporters.",
+                "pronounciation": "/kəˈkɒf(ə)ni/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "loud confusing disagreeable sounds; a loud harsh or strident noise",
+                    "home": "बेसुरापन;शोर",
+                    "synonym": "racket, noise, discord"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cadge",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The homeless man was constantly trying to cadge cigarettes from pedestrians.",
+                "pronounciation": "/kadʒ/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to convince a person to give you something at no charge",
+                    "home": "भीख मांगना; फेरी लगाना",
+                    "synonym": "scrounge, beg, borrow"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cajole",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The candidate managed to cajole many voters into choosing his name on the ballot.",
+                "pronounciation": "/kəˈdʒəʊl/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "persuade someone to do something; convince with gentle pleading; sweet-talk",
+                    "home": "भुलवाना; मनाना",
+                    "synonym": "	persuade, wheedle, coax"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Callous",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The killer was a callous man who murdered without feeling guilty.",
+                "pronounciation": "/ˈkaləs/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "showing or having an insensitive and cruel disregard for others",
+                    "home": "कठिन; कठोर; निर्दय;",
+                    "synonym": "	heartless,ruthless,uncaring,cold-hearted"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Callow",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The callow basketball player missed an incredibly easy shot.",
+                "pronounciation": "/ˈkaləʊ/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "immature, lacking in life experience",
+                    "home": "अनाड़ी;अनुभवहीन",
+                    "synonym": " inexperienced, naive,untrained"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Calumny",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The editor refused to publish the calumny that could possibly destroy the politician’s career.",
+                "pronounciation": "/ˈkaləmni/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a false statement made to damage someone’s reputation",
+                    "home": "चुगली;निन्दा; बदनामी",
+                    "synonym": "slander,libel"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Canard",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The newspaper was sued for publishing a canard about a popular celebrity.",
+                "pronounciation": "/kəˈnɑːd,ˈkanɑːd/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a phony report or story;an unfounded rumour or story",
+                    "home": "झूठी अफवाह",
+                    "synonym": "story, tale, whisper"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Candid",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The book reviewer had no trouble giving his candid review of the awful novel.",
+                "pronounciation": "/ˈkandɪd/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "truthful and straightforward;informal or natural; especially caught off guard or unprepared",
+                    "home": " सच्चा; सरल",
+                    "synonym": "frank, outspoken, forthright, blunt"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Candor",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The politician’s candor and honesty made him the favorite candidate in the election.",
+                "pronounciation": "/ˈkandə/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the quality of being open and honest; franknessd",
+                    "home": "खरापन;स्पष्टवादिता",
+                    "synonym": "frankness, openness, honesty"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cant",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The older woman did not understand the modern cant spoken by her grandchildren.",
+                "pronounciation": "/kant/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the unique vocabulary used by a specific group of people",
+                    "home": "खिचड़ी भाषा; कठबोली",
+                    "synonym": "	slang, jargon"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cantankerous",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "By nature, bulls are cantankerous animals that prefer to be left alone.",
+                "pronounciation": "/kanˈtaŋk(ə)rəs/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "easily angered, always complaining or arguing and difficult to get along with",
+                    "home": "चिड़चिड़ा; झगड़ालू; बिगड़ैल",
+                    "synonym": "	bad-tempered,irascible,irritable, grumpy"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Capitulate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I never thought my brother would capitulate and allow me to drive his car for a week.",
+                "pronounciation": "/kəˈpɪtjʊleɪt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to give in; to surrender under certain terms",
+                    "home": "झुकना; आत्मसमर्पण करना",
+                    "synonym": "succumb, crumble,surrender"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Capricious",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "You need to settle down and stop being so capricious!",
+                "pronounciation": "/kəˈprɪʃəs/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "determined by chance or impulse or whim rather than by necessity or reason;changeable",
+                    "home": "मनमौजी;सनकी",
+                    "synonym": "	fickle, inconstant, changeable"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Captious",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When my captious teacher grades my essays, she always finds a minor error in my work.",
+                "pronounciation": "/ˈkapʃəs/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "tending to find fault or raise petty objections.",
+                    "home": "धोखेबाज़; भ्रामक",
+                    "synonym": "craping,critical,fault-finding"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cardinal",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "In a town in Italy, having litter-free land is a cardinal law due to the number of environmentalists who live there.",
+                "pronounciation": "/ˈkɑːd(ɪ)n(ə)l/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "fundamental; of the greatest importance",
+                    "home": "आधारभूत; ख़ास",
+                    "synonym": "basic, main,chief,prime"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Carnage",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The president vowed someone would pay for the carnage of the terror attacks on our country’s soil.",
+                "pronounciation": "/ˈkɑːnɪdʒ/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the killing of a large number of people.",
+                    "home": "नाश;वध; संहार",
+                    "synonym": "	slaughter, massacre"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Carnal",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Minors are not invited to the art exhibit because the paintings display carnal nudity.",
+                "pronounciation": "/ˈkɑːn(ə)l/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "marked by the appetites and passions of the body",
+                    "home": "कामुक; दैहिक; विषयी",
+                    "synonym": "	sexual, erotic, lustful,coarse"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Carping",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "My carping mother-in-law is constantly criticizing my housekeeping skills.",
+                "pronounciation": "/ˈkɑːpɪŋ/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "having the tendency to complain or criticize",
+                    "home": "छिद्रान्वेषी; नुकताचीन",
+                    "synonym": "critical, faultfinding, hypercritical"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cartography",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Since Greg was an expert in cartography, he quickly located the inaccuracy in the map.",
+                "pronounciation": "/kɑːˈtɒɡrəfi/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the making of maps and charts",
+                    "home": "नक्शानवीसी; मानचित्रण",
+                    "synonym": "mapmaking,making"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Caste",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The poorest people make up the lowest class in a caste that is determined by the wealth of one’s family.",
+                "pronounciation": "/kɑːst/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a class hierarchy determined by a person’s heritage",
+                    "home": "गोत्र; जाति; वर्ग",
+                    "synonym": "social class,rank, level, degree"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Castigate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "If you want better results, you should praise your children and not castigate them. ",
+                "pronounciation": "/ˈkastɪɡeɪt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to criticize someone or something severely",
+                    "home": "मारना; गाली देना",
+                    "synonym": "reprimand, rebuke, admonish, chastise"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cataclysm",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "A severe attack upon the Internet could cause a cataclysm in the financial world.",
+                "pronounciation": "/ˈkatəˌklɪz(ə)m/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "can event resulting in great loss and misfortune",
+                    "home": "उथल-पुथल; परिवर्तन",
+                    "synonym": "disaster, catastrophe, calamity, tragedy"
                 }
         },
         {
                 "id": "c204",
                 "name": "Catalyst",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The enzyme was the catalyst that triggered the chemical reaction. ",
+                "pronounciation": "/ˈkat(ə)lɪst/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "something that causes an important event to happen",
+                    "home": "उत्प्रेरक;मुख्य स्रोत",
+                    "synonym": "impulse,reactant"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Catastrophic",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The catastrophic wreck on the highway involved over forty vehicles.",
+                "pronounciation": "/katəˈstrɒfɪk/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "extremely harmful; bringing physical or financial ruin",
+                    "home": "अनर्थकारी; आपत्तिजनक;आपाती",
+                    "synonym": "ruinous, tragic, fatal,grievous"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Categorical",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When Jill asked her father to borrow his new car, she received a categorical no in response.",
+                "pronounciation": "/katəˈɡɒrɪk(ə)l/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "stated in a definite manner;not modified or restricted by reservations",
+                    "home": "निर्णयात्मक; निर्धारक",
+                    "synonym": "unreserved, absolute"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Caucus",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The Black Student Caucus is holding a cultural diversity workshop in the media center on Saturday.",
+                "pronounciation": "/ˈkɔːkəs/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a gathering of individuals who come together to work for a shared objective – generally political in nature",
+                    "home": "दल;बैठक",
+                    "synonym": "meeting, assembly, gathering"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Causal",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Laura likes to wear casual clothing because she does not want to spend time getting dressed up in the morning.",
+                "pronounciation": "/ˈkɔːz(ə)l/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "involving or constituting a cause;relating to or acting as a cause.",
+                    "home": "करणीय; हेतुक",
+                    "synonym": "cause, occasion, reason"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Caustic",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The comic’s caustic jokes offended quite a few people.",
+                "pronounciation": "/ˈkɔːstɪk,ˈkɒstɪk/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "extremely sarcastic or critical;harsh or corrosive in tone",
+                    "home": " कटु; कठोर;",
+                    "synonym": "harsh, destructive"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Celerity",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The slave will be punished if his celerity is not fast enough for his master.",
+                "pronounciation": "/sɪˈlɛrɪti/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a rate that is rapid;quickness of motion; speed",
+                    "home": "चाल; तेज़ी;तेजी; फुरती",
+                    "synonym": "fastness, fleetness, haste, hurry"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Celestial",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Since I am an atheist, I do not believe in a celestial afterlife.",
+                "pronounciation": "/sɪˈlɛstɪəl/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "associated with a spiritual paradise or heaven;of or relating to the sky",
+                    "home": "आकाशीय; दिव्य; स्वर्गीय",
+                    "synonym": "heavenly, astronomical,stellar"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Centrifugal",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Kim had no idea she was doing an experiment about centrifugal force when she sucked her milk through a straw.",
+                "pronounciation": "/ˌsɛntrɪˈfjuːɡ(ə)l,sɛnˈtrɪfjʊɡ(ə)l/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "moving away or advancing from an axis or center",
+                    "home": "अपकेन्द्री; केंद्रत्यागी",
+                    "synonym": "decentralising"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Centripetal",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The centripetal star is slowly accelerating towards the middle of its solar system.",
+                "pronounciation": "/ˌsɛntrɪˈpiːt(ə)l,sɛnˈtrɪpɪt(ə)l/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "moving towards the center",
+                    "home": "अभिकेन्द्र; केन्द्राभिसारी",
+                    "synonym": "sensory. afferent"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cessation",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "he arrival of several police cruisers brought a quick cessation to the gang fight.",
+                "pronounciation": "/sɛˈseɪʃ(ə)n/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the fact or process of ending or being brought to an end",
+                    "home": "रोकना;विराम;समाप्ति",
+                    "synonym": "termination, stopping, halting"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Chagrin",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "To her chagrin, Jill placed second in the beauty pageant.",
+                "pronounciation": "/ˈʃaɡrɪn,ʃəˈɡrɪn/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a feeling of being frustrated or annoyed because of failure or disappointment",
+                    "home": "चिढ़",
+                    "synonym": "annoyance, irritation,fury"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Champion",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Standing on top of the platform, the Olympic champion received a gold medal for his win.",
+                "pronounciation": "/ˈtʃampɪən/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a person who has defeated all rivals in a competition",
+                    "home": "प्रवीण;बहादुर; विजेता;",
+                    "synonym": "winner, title-holder"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Charisma",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When the model walked down the runway, everyone was taken back by his charisma.",
+                "pronounciation": "/kəˈrɪzmə/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a personal attractiveness or interestingness that enables you to influence others",
+                    "home": "आकर्षण;प्रतिभा;जलवा",
+                    "synonym": "charm, presence, aura"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Charlatan",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The charlatan pretended to be a doctor so he could go into the hospital and steal prescription drugs",
+                "pronounciation": "/ˈʃɑːlət(ə)n/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a person falsely claiming to have a special knowledge or skill.s",
+                    "home": "झूठा; ढोंगी; धूर्त्त; धोखेबाज़",
+                    "synonym": "quack,sham, fraud, fake"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Chasten",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "As a parent, I don’t feel spanking is a good way to chasten your kids.",
+                "pronounciation": "/ˈtʃeɪs(ə)n/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to punish or reprimand in order to correct;restrain; censure severely",
+                    "home": "अनुशासन करना; शुद्ध करना; दण्ड देना",
+                    "synonym": "humiliate, mortify"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Chicanery",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "You can smell the chicanery from a dishonest politician.",
+                "pronounciation": "/ʃɪˈkeɪnəri/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the use of tricks to deceive someone (usually to extract money from them)",
+                    "home": "हेरा-फेरी;",
+                    "synonym": " trickery, deception, dishonesty"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Chimerical",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The company was fined when the government discovered it had used chimerical data to get approval for its new drug.",
+                "pronounciation": "/kī-ˈmer-i-kəl/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "produced by a wildly fanciful imagination",
+                    "home": "असंगत ;असंभव; असाध्य; कल्पित",
+                    "synonym": "fabulous, fanciful"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Chivalry",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The teenager displayed chivalry when he held the door open for the girls in his group.",
+                "pronounciation": "/ˈʃɪv(ə)lri/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "courtesy towards women;courteous conduct",
+                    "home": "शिष्टता;शूरता;शौर्य",
+                    "synonym": "courag;ecourtesy;fairness"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Churlish",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Although Ms. X is a beautiful and talented actress, she has a reputation for being churlish and difficult to get along with",
+                "pronounciation": "/ˈtʃəːlɪʃ/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "having a bad disposition; surly rude and boorish",
+                    "home": "अभद्र; अशिष्ट;कंजूस",
+                    "synonym": "rude, ill-mannered, discourteous, impolite"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Circuitous",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "My boss asked me to simplify the circuitous language for the average reader.",
+                "pronounciation": "/səːˈkjuːɪtəs/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "not said or done simply or clearly",
+                    "home": "घुमावदार; चक्करदार",
+                    "synonym": " indirect, winding, meandering"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Clairvoyant",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "If I was clairvoyant, I could win the lottery very easily.",
+                "pronounciation": "/klɛːˈvɔɪənt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "able to see beyond the range of ordinary observation",
+                    "home": "अतीन्द्रियदर्शी;सूक्ष्मदर्शी",
+                    "synonym": "psychic, fortune teller"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Clamor",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "As soon as the people learn about the little boy’s murder, they are going to clamor for justice.",
+                "pronounciation": "/ˈklamə/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "loud and persistent outcry from many people; a loud harsh or strident noise",
+                    "home": "कोलाहल; धूम;शोर",
+                    "synonym": "uproar, tumult, babel"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Clandestine",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "rom the van, the police watched as the clandestine drug deal occurred.",
+                "pronounciation": "/klanˈdɛstɪn,ˈklandɛstɪn/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "conducted with or marked by hidden aims or methods",
+                    "home": "ग़ैरक़ानूनी; निषेधित",
+                    "synonym": "secret, covert, furtive"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cliche",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because teenagers like a certain phrase, they will repeat it over and over again until it becomes a cliché.",
+                "pronounciation": "/ˈkliːʃeɪ/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a word or phrase used excessively",
+                    "home": "पिष्टोक्ति;रूढ़ोक्ति",
+                    "synonym": "bromide,truism"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Clique",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The cool kids’ clique always sits in the last row of the auditorium.",
+                "pronounciation": "/kliːk/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an exclusive circle of people with a common purpose",
+                    "home": "गिरोह ;गुट",
+                    "synonym": " crowd, in-crowd, set, group"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cloister",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The religious man found great peace in his decision to cloister himself in a monastery.",
+                "pronounciation": "/ˈklɔɪstə/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a covered walk in a convent, monastery, college, or cathedral;to isolate from others",
+                    "home": "मठ;विहार",
+                    "synonym": "corridor, aisle, arcade"
                 }
         },
         {
                 "id": "c204",
                 "name": "Coagulate",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "he killer did not realize the blood would coagulate on the floor and form a huge blob.",
+                "pronounciation": "/kəʊˈaɡjʊleɪt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "change from a liquid to a thickened or solid state",
+                    "home": "जमना; उमड़ना",
+                    "synonym": "thicken, harden, gel"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Coalesce",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Local high school principals have agreed to coalesce around new approaches for college preparation.",
+                "pronounciation": "/ˌkəʊəˈlɛs/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "come together to form one mass or whole",
+                    "home": "मिलना; सम्मिलित होना ;जुड़ जाना",
+                    "synonym": "combine, merge, fuse,blend"
                 }
         },
         {
                 "id": "c204",
                 "name": "Coda",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The final section of the song was sealed with a coda that sounded like an entirely different melody.",
+                "pronounciation": "/ˈkəʊdə/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "the final or extra part of a piece of music, speech, statement, or some other writing",
+                    "home": "कोडा",
+                    "synonym": "climax;closer;conclusion"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Codify",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "he interns will codify the financial receipts in chronological order.",
+                "pronounciation": "/ˈkəʊdɪfʌɪ/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "organize into a code or system, such as a body of law",
+                    "home": "सुव्यवस्थित करना; विधिबद्ध करना",
+                    "synonym": " systemize, organize, arrange"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Coerce",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "It is against the law for someone to coerce you into giving away your belongings.",
+                "pronounciation": "/kəʊˈəːs/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to cause to do through pressure or necessity, by physical, moral or intellectual means",
+                    "home": "दबाना;बाध्य करना",
+                    "synonym": "pressurize,push"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cogent",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The angry husband hired a detective to find cogent proof of his wife's extramarital affair.",
+                "pronounciation": "/ˈkəʊdʒ(ə)nt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "very clear and easy for the mind to accept and believe",
+                    "home": "आवश्यक; ठोस; निरुत्तर",
+                    "synonym": "	convincing, compelling,forceful, powerful "
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cognizant",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Since you have never had a baby, there is no way you could be cognizant of labor pains.",
+                "pronounciation": "/ˈkɒ(ɡ)nɪz(ə)nt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "having or showing knowledge or understanding or realization",
+                    "home": "अवगत; जानकार; परिचित",
+                    "synonym": "aware, conscious"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Collage",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The musical collage is a mixture of all my favorite songs.",
+                "pronounciation": "/ˈkɒlɑːʒ,kəˈlɑːʒ/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an artistic creation made by sticking many different things together",
+                    "home": "संग्रह; समुच्चित चित्र",
+                    "synonym": "photomontage,picture, image"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Comely",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When the shallow man saw his blind date, he refused to go out with her because she did not look comely.",
+                "pronounciation": "/ˈkʌmli/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "very pleasing to the eye;according with custom or propriety",
+                    "home": "सुदर्शन; उपयुक्; चारु; प्रिय",
+                    "synonym": "attractive, good-looking, nice-looking, beautiful"
                 }
         },
         {
                 "id": "c204",
                 "name": "Commensurate adj.",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "You will get a salary increase commensurate with your additional responsibilities and work.",
+                "pronounciation": "/kəˈmɛnʃ(ə)rət,kəˈmɛnʃ(ə)rət/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "corresponding in size or degree or extent",
+                    "home": "अनुरूप आनुपातिक",
+                    "synonym": ":equivalent, equal, corresponding, correspondent"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Commodious",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I finally found an inexpensive hotel with rooms that are commodious enough for the whole family.",
+                "pronounciation": "/kəˈməʊdɪəs/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "spacious and convenient; roomy and comfortable",
+                    "home": "लम्बा-चौड़ा; विशाल",
+                    "synonym": "spacious, ample, substantial"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Compassion",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The police officer’s voice was filled with compassion when she talked to the rape victim.",
+                "pronounciation": "/kəmˈpaʃ(ə)n/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a deep awareness of and sympathy for another's suffering",
+                    "home": "सहानुभूति;करुणा",
+                    "synonym": " feeling, empathy, understanding"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Compatible",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because my girlfriend and I listen to the same music artists, we have compatible tastes in music.",
+                "pronounciation": "/kəmˈpatɪb(ə)l/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "able to exist and perform in harmonious or agreeable combination",
+                    "home": "अनुरूप; उपयुक्त;योग्य",
+                    "synonym": "adaptable;appropriate;suitable"
                 }
         },
         {
                 "id": "c204",
                 "name": "Compendium",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The book is nothing more than a compendium of the author’s rants against the government.",
+                "pronounciation": "/kəmˈpɛndɪəm/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "a concise but comprehensive summary of a larger work	collection, compilation, anthology",
+                    "home": "तत्व;संक्षेप; सारांश",
+                    "synonym": "	collection, compilation, anthology"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Compensate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Since I paid over three hundred dollars for my dress, you cannot compensate me for its loss with a fifty dollar check. ",
+                "pronounciation": "/ˈkɒmpɛnseɪt,ˈkɒmp(ə)nseɪt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to give a form of payment for a good or service or as a means of making up for a misdeed",
+                    "home": "हरजाना देना; इनाम देना",
+                    "synonym": "repay, reimburse, remunerate,"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Complacent",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": " am rightfully not complacent with low quality service.",
+                "pronounciation": "/kəmˈpleɪs(ə)nt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "contented to a fault with oneself or one's actions",
+                    "home": "अजागरूक;असावधान",
+                    "synonym": "smug, self-satisfied"
                 }
         },
         {
                 "id": "c204",
                 "name": "Complaisant",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Marsha’s complaisant character made her the perfect servant.",
+                "pronounciation": "/kəmˈpleɪz(ə)nt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "showing a cheerful willingness to do favors for others",
+                    "home": "मेहरबान; विनीत",
+                    "synonym": "agreeable, amenable, cooperative"
                 }
         },
         {
                 "id": "c204",
                 "name": "Compliant",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The teacher was shocked when her normally rebellious class became compliant.",
+                "pronounciation": "/kəmˈplʌɪənt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "disposed to agree with others or obey rules",
+                    "home": "आज्ञाकारी; मुलायम",
+                    "synonym": "acquiescent, amenable, biddable"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Complicity",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "our complicity in the crime is probably going to earn you five years in prison. ",
+                "pronounciation": "/kəmˈplɪsɪti/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "guilt as an accomplice in a crime or offense",
+                    "home": "मिलीभगत;सहअपराधिता",
+                    "synonym": " involvement, collaboration"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Component",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The only component of the sandwich that I do not like is the tomato, but the turkey, lettuce and mayonnaise are fine.",
+                "pronounciation": "/kəmˈpəʊnənt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a small section of a bigger part of a whole thing",
+                    "home": "घटक;टुकड़ा;भाग",
+                    "synonym": "piece, bit, constituent, element"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Compound",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The entire compound was secured by fences and security systems that served to protect all of those inside. ",
+                "pronounciation": "/ˈkɒmpaʊnd/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "composed of many distinct individuals united to form a whole or colony",
+                    "home": "संयोजित;समस्त; सामासिक; मिश्र",
+                    "synonym": "	amalgam, combination, composite"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Comprehensive",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because I want the car completely repainted, I have purchased the comprehensive auto package.",
+                "pronounciation": "/kɒmprɪˈhɛnsɪv/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "including or dealing with all or nearly all elements or aspects of something.",
+                    "home": "चौड़ा; विस्तारपूर्ण; विशद",
+                    "synonym": "panoramic, thorough, universal"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Compunction",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The serial killer showed no compunction when his guilty verdict was announced.",
+                "pronounciation": "/kəmˈpʌŋkʃ(ə)n/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a feeling of deep regret (usually for some misdeed)",
+                    "home": "अनुताप;खेद; पछतावा",
+                    "synonym": "unease, uneasiness, hesitation"
                 }
         },
         {
                 "id": "c204",
                 "name": "Conciliatory",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The mediator made a conciliatory statement which helped the two parties find common ground.",
+                "pronounciation": "/kənˈsɪlɪətəri/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "To regain (friendship or goodwill) by pleasant behavior; to reconcile",
+                    "home": "तुष्टीकारी; मैत्रीपूर्ण; शान्तिकर",
+                    "synonym": "peacemaking, reconciliatory"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Concoct",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "My mother is a talented chef who can concoct a gourmet meal out of sandwich meats.",
+                "pronounciation": "/kənˈkɒkt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "meaning": "make (a dish or meal) by combining various ingredients.",
                     "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "synonym": "	prepare, make,assemble"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Concomitant",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Pharmaceutical cocktails are designed to fight specific diseases by administering several concomitant drugs to the patient.",
+                "pronounciation": "/kənˈkɒmɪt(ə)nt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "following or accompanying as a consequence",
+                    "home": "संलग्न; सहगामी; सहवर्ती",
+                    "synonym": "attendant, accompanying, associated"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Concur",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The biggest problem in Adam and Jill’s marriage is the fact they cannot concur on whether or not to have children.",
+                "pronounciation": "/kənˈkəː/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "happen simultaneously be in accord; be in agreement",
+                    "home": "मिलना; सहमत होना; एक मत होना",
+                    "synonym": "agree,accord,coincide"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Condolence",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I offered my neighbor my condolence when I heard of his mother’s death.",
+                "pronounciation": "/kənˈdəʊl(ə)ns/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an expression of sympathy with another's grief",
+                    "home": "सहानुभूति ; शोक; संवेदना",
+                    "synonym": "solace, comfort, consolation"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Condone",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Good police officers will not condone speeding.",
+                "pronounciation": "/kənˈdəʊn/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "excuse, overlook, or make allowances for; be lenient with",
+                    "home": "जाने देना; ध्यान न देना; माफ़ करना",
+                    "synonym": "accept, allow,disregard"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Conducive",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Alcoholic parents are not conducive to a stable environment for the children.",
+                "pronounciation": "/kənˈdjuːsɪv/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "tending to bring about; being partly responsible for",
+                    "home": "उपकारी; सहायक",
+                    "synonym": "helpful;useful"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Confidant",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "he president knows his psychiatrist is a confidant who will never reveal his secrets.",
+                "pronounciation": "/ˈkɒnfɪdant,ˌkɒnfɪˈdɑːnt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a person with whom you can share your secrets",
+                    "home": "विश्वासपात्र; हमराज़; दिली दोस्त",
+                    "synonym": "companion, crony, intimate"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Conflagration",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The dictator of that small country is always threatening the world with nuclear conflagration.",
+                "pronounciation": "/ˌkɒnfləˈɡreɪʃ(ə)n/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an extensive fire which destroys a great deal of land or property.",
+                    "home": "अवदाह ;आग; दाह; प्रज्वलन",
+                    "synonym": "blaze, flames, inferno, firestorm"
                 }
         },
         {
                 "id": "c204",
                 "name": "Confound",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "If the nurse does not read the labels, she will confound the medications and possibly harm patients.",
+                "pronounciation": "/kənˈfaʊnd/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "be confusing or perplexing to; cause to be unable to think clearly;mistake one thing for another",
+                    "home": "उलझाना; घबड़ाना; डराना; मिलाना",
+                    "synonym": " surprise, startle, stun"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Confront",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "It took a lot of courage for the victim to confront her attacker in court.",
+                "pronounciation": "/kənˈfrʌnt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "come face to face with (someone) with hostile or argumentative intent.",
+                    "home": "सम्मुख करना; मुक़ाबला करना",
+                    "synonym": "oppose, resist"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Congenial",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Mark is a congenial host who always makes everyone feel welcome.",
+                "pronounciation": "/kənˈdʒiːnɪəl/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "pleasing or liked on account of having qualities or interests that are similar to one's own.",
+                    "home": "अनुकूल; अनुरूप; सुखद",
+                    "synonym": "	like-minded, compatible, kindred"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Conjecture",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Your argument is being ignored because it is basically nothing but conjecture!",
+                "pronounciation": "/kənˈdʒɛktʃə/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "reasoning that involves the formation of conclusions from incomplete evidence",
+                    "home": "अनुभाग;अनुमान",
+                    "synonym": "guess, speculation, surmise"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Conjugal",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The bride and groom were looking forward to conjugal bliss for the rest of their lives.",
+                "pronounciation": "/ˈkɒndʒʊɡ(ə)l/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "relating to marriage or the relationship between a married couple.",
+                    "home": "वैवाहिक; विवाह;दाम्पतिक",
+                    "synonym": "marital, matrimonial, nuptial"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Connoisseur",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "f you are a beer connoisseur, you will enjoy a tour of our local brewery.",
+                "pronounciation": "/ˌkɒnəˈsəː/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an expert able to appreciate a field; especially in the fine arts",
+                    "home": "गुणज्ञ; जानकार परीक्षक",
+                    "synonym": "authority,specialist"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Connubial",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "As a symbol of their connubial love, the couple always took a weekend vacation around their anniversary.",
+                "pronounciation": "/kəˈnjuːbɪəl/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "relating to marriage or the relationship between a married couple",
+                    "home": "विवाहित; वैवाहिक; शादी",
+                    "synonym": "conjugal"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Conscript",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The object of her navy is therefore necessarily defensive, unless it act in co-operation with a foreign conscript army.",
+                "pronounciation": "/kənˈskrɪpt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "someone who is drafted into military service",
+                    "home": "अनिवार्य भारती",
+                    "synonym": "inductee, selectee"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Consecrate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "he monks will consecrate the temple as a house of worship.",
+                "pronounciation": "/ˈkɒnsɪkreɪt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "ake or declare (something, typically a church) sacred; dedicate formally to a religious purpose.",
+                    "home": "अर्पित करना; अर्पण करना",
+                    "synonym": "	sanctify, bless"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Consternation",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I sleep in consternation not knowing where my keys are.",
+                "pronounciation": "/kɒnstəˈneɪʃ(ə)n/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a feeling of worry, shock, or fear - often happens when something unexpected happens",
+                    "home": "आतंक;आश्चर्य; घबराहट",
+                    "synonym": "anxiety, distress, disquiet"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Construe",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Although I tried to pay you a compliment, you have decided to construe my words as an insult.",
+                "pronounciation": "/kənˈstruː/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "make sense of; assign a meaning to",
+                    "home": "अर्थ लगाना;अनुवाद करना",
+                    "synonym": "	interpret, understand"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Consummate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because my sister is a consummate liar, she can make anyone believe practically anything.",
+                "pronounciation": "/ˈkɒns(j)əmeɪt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "extremely skilled",
+                    "home": "उत्कृष्ट; निरा;पक्का",
+                    "synonym": "perfect, exemplary, supreme"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Contemptuous",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "She is contemptuous of me simply because I do not agree with her every word.",
+                "pronounciation": "/kənˈtɛm(p)tʃʊəs/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "showing or feeling deep hatred for someone or something",
+                    "home": "घृणायुक्त; घृणित; तिरस्कारक",
+                    "synonym": "	scornful, disrespectful, insulting"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Contend",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "If you argue with Janet, she will always contend you are in the wrong.",
+                "pronounciation": "/kənˈtɛnd/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "assert something as a position in an argument",
+                    "home": "झगड़ना; लड़ना; बहस करना",
+                    "synonym": "claim, argue, profess, affirm"
                 }
         },
         {
                 "id": "c204",
                 "name": "Contention",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Does anyone know the point of contention that started the fight between Jim and Bob?",
+                "pronounciation": "/kənˈtɛnʃ(ə)n/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "a dispute between groups or individuals",
+                    "home": "कलह; कहा-सुनी; तकरार; तर्क",
+                    "synonym": "disagreement, dispute, argument, variance"
                 }
         },
         {
                 "id": "c204",
                 "name": "Contentious",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "As a rule, I tend to avoid contentious topics of conversation which might lead to arguments.",
+                "pronounciation": "/kənˈtɛnʃəs/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "causing or likely to cause an argument",
+                    "home": "कलहप्रिय; झगड़ालू; विवादपूर्ण",
+                    "synonym": "controversial, disputable, debatable"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Contiguous",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because there is a bar contiguous to the pool, you do not have to get out of the water to order a drink.",
+                "pronounciation": "/kənˈtɪɡjʊəs/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "used to describe things that touch each other or are next to each other",
+                    "home": "कटवर्ती ; संसक्त",
+                    "synonym": "adjacent, neighbouring, adjoining"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Continence",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "My continence gave me the strength to avoid the dessert table.",
+                "pronounciation": "/ˈkɒntɪnəns/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the ability to restrain oneself, including one’s bodily discharges",
+                    "home": "ब्रह्मचर्य; शुद्धता;संयम",
+                    "synonym": "abstinence, celibacy, chasteness"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Contrite",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Don't you have any contrite in your heart for murdering my brother?",
+                "pronounciation": "/kənˈtrʌɪt,ˈkɒntrʌɪt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "feeling or expressing pain or sorrow for sins or offenses",
+                    "home": "अनुतापी; दुःखित; पश्चातापी",
+                    "synonym": "emorseful, repentant, penitent"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Controversial",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Many political topics are controversial subjects precisely because they appeal to one party demographic or the other.",
+                "pronounciation": "/kɒntrəˈvəːʃ(ə)l/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "marked by or capable of arousing controversy",
+                    "home": "विविदास्पाद; तकरारी; तार्किक",
+                    "synonym": "disputable, debatable, arguable"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Contumacious",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The judge was quick to have contumacious defendants removed from his courtroom.",
+                "pronounciation": "/ˌkɒntjʊˈmeɪʃəs/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "rebellious against laws or those in authority",
+                    "home": "अक्खड़; अवज्ञाकारी",
+                    "synonym": "disobedient,obstinate"
                 }
         },
         {
                 "id": "c204",
                 "name": "Conundrum",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Trying to solve this conundrum is really making my head hurt. ",
+                "pronounciation": "/kəˈnʌndrəm/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "a confusing and difficult problem or question.",
+                    "home": "पहेली;समस्या",
+                    "synonym": "difficulty, quandary, dilemma"
                 }
         },
         {
                 "id": "c204",
                 "name": "Converge",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Every year, my family chooses to converge in Georgia from all around the United States for our family reunion.",
+                "pronounciation": "/kənˈvəːdʒ/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "to come together from different places to meet at one point",
+                    "home": "मिलना; एक बिंदु की ओर जाना",
+                    "synonym": "	meet, intersect, cross"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Convival",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "If you cannot be convivial, then you should not invite people over for dinner.",
+                "pronounciation": "/kənˈvɪvɪəl/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "friendly and making you feel welcome",
+                    "home": " खुशनुमा",
+                    "synonym": "	friendly, genial, affable"
                 }
         },
         {
                 "id": "c204",
                 "name": "Convoluted",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "My head began to hurt as I listened to the professor’s convoluted speech.",
+                "pronounciation": "/ˌkɒnvəˈl(j)uːtɪd/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "extremely complex and difficult to follow",
+                    "home": "घुमावदार; पेचीदा; संवलित",
+                    "synonym": ", involved, intricate, elaborate"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cope",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The farmers were unable to cope with the harsh dry weather and many of their crops died.",
+                "pronounciation": "/kəʊp/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "how well or effectively a person can deal with a difficult or tragic situation",
+                    "home": "झगड़ना; लड़ना; सम्हालना",
+                    "synonym": "	manage, survive, subsist"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Copious",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "To avoid having a hangover, do not drink a copious amount of alcohol.",
+                "pronounciation": "/ˈkəʊpɪəs/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "affording an abundant supply;large in number or quantity (especially of discourse)",
+                    "home": "अधिक; प्रचुर; बहुत; विपुल",
+                    "synonym": "	abundant, ample, profuse,extensive"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Corpulent",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Even though I have been on a diet for four months, I am still rather corpulent in size.",
+                "pronounciation": "/ˈkɔːpjʊl(ə)nt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "having a large bulky body;excessively fat",
+                    "home": "मांसल मोटा स्थूल",
+                    "synonym": "obese, overweight, plump"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Corroborate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I prayed my friend would corroborate the lie I told my parents!",
+                "pronounciation": "/kəˈrɒbəreɪt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to strengthen or support with other evidence; make more certain",
+                    "home": "समर्थन करना; पुष्टि करना;पक्का करना",
+                    "synonym": "	confirm, verify, endorse, ratify"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Coterie",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Our coterie of girls always sits at the best table in the school cafeteria.",
+                "pronounciation": "/ˈkəʊt(ə)ri/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an exclusive circle of people with a common purpose",
+                    "home": "मण्डली; गोष्ठी",
+                    "synonym": "crowd, in-crowd, gang, band,cirlce"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Countenance",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "You could tell from Peter’s countenance that he was quite angry",
+                "pronounciation": "/ˈkaʊnt(ə)nəns/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a person's face or facial expression.",
+                    "home": "चेहरा; बदन; मुख",
+                    "synonym": "face, features, physiognomy, profile"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Coup",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When the coup failed, the dictator killed all the rebels who tried to remove him from power. ",
+                "pronounciation": "/kuː/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the quick action of taking power or a surprise victory",
+                    "home": "आघात ;चातुर्यपूर्ण",
+                    "synonym": "overthrow, takeover"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Covert",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Frank used his smartphone to arrange covert meetings with his mistress.",
+                "pronounciation": "/ˈkʌvət,ˈkəʊvəːt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "secret or hidden; not openly practiced or engaged in or shown or avowed",
+                    "home": "अप्रकट; आवृत; गुप्त",
+                    "synonym": "secret, furtive"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Covet",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The Bible says a man should not covet another man’s wife. ",
+                "pronounciation": "/ˈkəvət/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to greatly desire something you lack",
+                    "home": "चाहना; ललचाना",
+                    "synonym": "desire,crave"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cozen",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Scammers sent out thousands of fake tax notices trying to cozen naïve people into sending them cash in the mail.",
+                "pronounciation": "/ˈkəz(ə)n/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "To trick or fool someone by telling lies",
+                    "home": "फुसलाना; धोखा देना",
+                    "synonym": "beguile, bluff,fool"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Crave",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "While I was away at college, I would crave my mother’s homecooked meals.",
+                "pronounciation": "/kreɪv/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "feel a powerful desire for (something).",
+                    "home": "चाहना;तरसना; मांगना",
+                    "synonym": " seek, desire, want"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Credence",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Since you have a history of lying, I find it difficult to give credence to anything you tell me.",
+                "pronounciation": "/ˈkriːd(ə)ns/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "belief in or acceptance of something as true.",
+                    "home": "प्रतीति; प्रत्यय; विश्वास",
+                    "synonym": "	acceptance, belief, faith"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Criterion",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The main criterion for joining the country club is one’s ability to pay the sizable annual fee.",
+                "pronounciation": "/krʌɪˈtɪərɪən/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the ideal in terms of which something can be judged;a basis for comparison",
+                    "home": "जांच;निकष; मानदण्ड",
+                    "synonym": "yardstick, benchmark, touchstone"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cryptic",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The kidnapper seemed to enjoy leaving cryptic notes for the police.",
+                "pronounciation": "/ˈkrɪptɪk/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "having a meaning that is mysterious or obscure.",
+                    "home": "अप्रकट; गुप्त; गूढ़",
+                    "synonym": "mystifying, perplexing, puzzling, obscure"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Culminate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "At the end of the night, the concert will culminate in a huge fireworks display.",
+                "pronounciation": "/ˈkʌlmɪneɪt/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "reach a climax or point of highest development"
+                    "home": "समापन होना;ऊंचा होना",
+                    "synonym": "peak, climax,reach a pinnacle"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Culpable",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The judge found the man culpable of the crime and sentenced him to life in prison.",
+                "pronounciation": "/ˈkʌlpəb(ə)l/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "deserving blame or censure as being wrong or evil or injurious",
+                    "home": "आपराधिक;दंडनीय",
+                    "synonym": "guilty,blameworthy, blameable"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cumbersome",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The cumbersome box was too big for the shopping cart.",
+                "pronounciation": "/ˈkʌmbəs(ə)m/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "difficult to handle or use especially because of size or weight;not elegant or graceful in expression",
+                    "home": "जटिल; भारी-भरकम",
+                    "synonym": "unmanageable, awkward, clumsy"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cumulative",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The student’s cumulative grade for four years of high school is eighty-nine.",
+                "pronounciation": "/ˈkjuːmjʊlətɪv/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "increasing or increased in quantity, degree, or force by successive additions.",
+                    "home": "संचयी; जुड़ने वाला",
+                    "synonym": "growing, progressive"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cupidity",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "John’s cupidity led him to try and rob the bank.",
+                "pronounciation": "/kjuːˈpɪdɪti/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "extreme greed for material wealth",
+                    "home": "अर्थलिप्सा; लोभ",
+                    "synonym": "graspingness, greed"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cursory",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "After doing a cursory head count, Claire realized that two of the campers were not in their tents.",
+                "pronounciation": "/ˈkəːs(ə)ri/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "hasty and without attention to detail; not thorough",
+                    "home": "अधूरा;अनिपुण;सरसरी",
+                    "synonym": "perfunctory, desultory, casual"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Curtail",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The high cost of fuel is sure to curtail holiday travel this year.",
+                "pronounciation": "/kəːˈteɪl/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to limit something;reduce in extent or quantity; impose a restriction on",
+                    "home": "काटना; घटाना; छांटना",
+                    "synonym": "decrease, lessen, diminish"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cynic",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Being a cynic, the husband had a hard time trusting that his wife was interested in him for his money.",
+                "pronounciation": "/ˈsɪnɪk/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "someone who is critical of the motives of others",
+                    "home": "मानवद्वेषी; दोषदर्षी",
+                    "synonym": "pessimist,skeptic"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Daunt",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "f you have never been skydiving, it might appear somewhat daunting to you.",
+                "pronounciation": "/dɔːnt/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "cause to lose courage",
+                    "home": "धमकी देना; हिम्मत तोड़ना",
+                    "synonym": "	intimidate, abash"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Dearth",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "ecause there was a dearth of evidence, the district attorney had to drop the charges.",
+                "pronounciation": "/dəːθ/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a scarcity or lack of something",
+                    "home": "अभाव;कमी;दुर्लभता;महंगी",
+                    "synonym": "shortage, shortfall, deficiency"
                 }
         },
         {
         
                 "id": "c9999",
                 "name": "Debacle",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When the movie was released, it was called a debacle by the critics.",
+                "pronounciation": "/deɪˈbɑːk(ə)l/",
                 "alphabet" : "D",
                 "phone": {
                     "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "home": "असफलता; पराजय;पराजित",
+                    "synonym": "failure, catastrophe, disaster, disintegration, mess"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Debauchery",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "How can you go to church every Sunday and still engage in debauchery?",
+                "pronounciation": "/dɪˈbɔːtʃ(ə)ri/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "extreme indulgence in sensual behaviors, such as careless drinking and promiscuity",
+                    "home": "कामुकता; भ्रष्टाचार;विलासिता",
+                    "synonym": "lust,immorality, impurity"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Debilitate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Cancer can quickly debilitate an otherwise healthy person.",
+                "pronounciation": "/dɪˈbɪlɪteɪt/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "make (someone) very weak and infirm.",
+                    "home": "कमजोर करना; दुर्बल करना",
+                    "synonym": "sapping, wearing, exhausting, tiring,fatigue"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Debris",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The street cleaners will remove the debris left behind by the car accident.",
+                "pronounciation": "/ˈdɛbriː,ˈdeɪbriː/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the remains of something that has been destroyed or broken up",
+                    "home": "रोड़ा; अवशेष;  कचरा",
+                    "synonym": "detritus, refuse, rubbish, waste"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Decade",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Robert taught at a University in Colorado for a decade before leaving to teach elsewhere.",
+                "pronounciation": "/ˈdɛkeɪd,dɪˈkeɪd/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a period of ten years.",
+                    "home": "दश;दशक;दशाब्द",
+                    "synonym": "ten, decennary, tenner"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Decadence",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The decadence of eating five candy bars made me quite lazy.",
+                "pronounciation": "/ˈdɛkəd(ə)ns/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the state of being degenerate in mental or moral qualities",
+                    "home": "क्षय; नाश; पतन",
+                    "synonym": "dissipation,perversion"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Decapitate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The queen ordered her minions to decapitate the head of her enemy using a sharp guillotine. ",
+                "pronounciation": "/dɪˈkapɪteɪt/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "cut the head of",
+                    "home": "वध करना; सिर उतारना; सिर काटना",
+                    "synonym": "behead,guillotine"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Declaim",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The actor was speaking so loudly that even those walking past the theater could hear him declaim his monologue.",
+                "pronounciation": "/dɪˈkleɪm/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "speak against in an impassioned manner; recite in elocution",
+                    "home": "सुचना; निंदा करना; घोषित करना",
+                    "synonym": "preachify,lecture"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Decorum",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Matt knew his blind date lacked decorum when she questioned him about his salary.",
+                "pronounciation": "/dɪˈkɔːrəm/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "propriety in manners and conduct",
+                    "home": "शिष्टाचार;सदाचार; सभ्यता",
+                    "synonym": "decency,correctness"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Decrepit",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The owners have plans to renovate their decrepit hotel.",
+                "pronounciation": "/dɪˈkrɛpɪt/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "worn out or ruined because of age or neglect.",
+                    "home": "निर्बल; पुराना; फटा",
+                    "synonym": "tumbledown, ramshackle,ruined"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Deem",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The principal will probably deem the boy’s behavior as upsetting and worthy of a suspension.",
+                "pronounciation": "/diːm/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "keep in mind or convey as a conviction or view",
+                    "home": "समझना; सोचना;मान लेना",
+                    "synonym": "consider, judge, supposed"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Defame",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because he tried to defame his ex-wife,Mr.Sanders received a letter from her attorney ordering him to refrain from making nasty remarks.",
+                "pronounciation": "/dɪˈfeɪm/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "charge falsely or with malicious intent; attack the good name and reputation of someone",
+                    "home": "निन्दा करना; कलंक लगाना; बदनाम करना",
+                    "synonym": "	libel, slander, malign"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Default",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The bank will repossess your car if you default on your loan payments. ",
+                "pronounciation": "/dɪˈfɔːlt/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to be unsuccessful at satisfying a commitment;loss resulting from failure of a debt to be paid",
+                    "home": "अप्राप्ति; चूक;अभाव",
+                    "synonym": "non-remittance;non-payment"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Deference",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Kyle decided to shave off his mohawk in deference to his Grandmother.",
+                "pronounciation": "/ˈdɛf(ə)r(ə)ns/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "courteous regard for people's feelings; respect",
+                    "home": "अनुरोध;आदर;मर्यादा",
+                    "synonym": "respect,regard, esteem"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Degrade",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "During the presidential debate, the candidates degrade each other with insults and name-calling.",
+                "pronounciation": "/dɪˈɡreɪd/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "lower the grade of something; reduce its worth;reduce in worth or character, usually verbally",
+                    "home": "अपमान करना; अनादर करना; मूल्य घटाना",
+                    "synonym": "reduce,mortify, abase, disgrace"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Deleterious",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The overpopulation of large snakes in the forest is deleterious to the wild rat population.",
+                "pronounciation": "/ˌdɛlɪˈtɪərɪəs/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "harmful to living things",
+                    "home": "विषैला; हानिकारक; धातक",
+                    "synonym": "	harmful, damaging, detrimental"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Delineation",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "In 1949, the FBI declared his Death of a Salesman a negative delineation of American life.",
+                "pronounciation": "/dɪˌlɪnɪˈeɪʃ(ə)n/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the action of describing or portraying something precisely.",
+                    "home": "चित्रण;ढांचा;निरूपण",
+                    "synonym": "portrayal, description, presentation"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Delude",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Although Mary has no vocal talent, her parents have allowed her to delude herself into believing she is a great singer.",
+                "pronounciation": "/dɪˈl(j)uːd/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "make (someone) believe something that is not true.",
+                    "home": "छलना; ठगना;बहकाना; भुलाना",
+                    "synonym": "mislead, deceive, fool"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Deluge",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The car rental company closed after a deluge of accidents prevented it from being able to insure its vehicles.",
+                "pronounciation": "/ˈdɛljuːdʒ/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a large number of things occurring in the same instance;a severe flood.",
+                    "home": "बाढ़;अतिवृष्टि",
+                    "synonym": "engulf, submerge, swamp, drown"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Delve",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "We had many books to delve into during our research for school.",
+                "pronounciation": "/dɛlv/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to search thoroughly and carefully for information;turn up, loosen, or remove earth",
+                    "home": "संगम; गहन; गड्ढा; मुहाना",
+                    "synonym": "dig,scour, ransack"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Demeanor",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When Helen is working as a hostage negotiator, she always has such a calm demeanor.",
+                "pronounciation": "/dɪˈmiːnə/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "(behavioral attributes) the way a person behaves toward other people",
+                    "home": "आचरण;चाल;चाल-चलन",
+                    "synonym": "manner,attitude, appearance"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Demotic",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The down-to-earth professor used demotic speech when talking to her students instead of complicated jargon that might confuse them.",
+                "pronounciation": "/dɪˈmɒtɪk/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "(of or in the form of language) used by ordinary people",
+                    "home": "लोकगत;सामान्य",
+                    "synonym": "vulgar,common,informal"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Demur",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I wanted to stand up and demur but decided against objecting to the marriage.",
+                "pronounciation": "/dɪˈməː/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a formal objection to an opponent's pleadings",
+                    "home": "आपत्ति;शंका;संदेह",
+                    "synonym": "protestation, complaint, dispute"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Denigrate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "You should not denigrate other people unless you want individuals to attack your reputation in retaliation.",
+                "pronounciation": "/ˈdɛnɪɡreɪt/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "charge falsely or with malicious intent; attack the good name and reputation of someone",
+                    "home": "नीचा दिखाना; कलंक लगाना; बदनाम करना",
+                    "synonym": "insult,slight,revile"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Denizen",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "My husband is a denizen of the sand who practically lives at the beach.",
+                "pronounciation": "/ˈdɛnɪz(ə)n/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a person, animal, or plant that lives in or often is found in a particular place or region",
+                    "home": "निवासी;रहनेवाला;वासी",
+                    "synonym": "	inhabitant, resident,native"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Denote",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "If you get lost, look for the two red flags that denote the hotel entrance.",
+                "pronounciation": "/dɪˈnəʊt/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to point out something;make known; make an announcement",
+                    "home": "घोषित करना; सूचित करना; संकेत करना",
+                    "synonym": "signify, signal, symbolize"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Denouement",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The film ended with a denouement that left the audience speechless.",
+                "pronounciation": "/deɪˈnuːmɒ̃/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the final resolution of the main complication of a literary or dramatic work",
+                    "home": "निन्दा; निर्वहण;समाप्ति",
+                    "synonym": "end,coda, finish, close"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Depict",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The drawings on the cave walls depict the lives of the earliest men on the planet.",
+                "pronounciation": "/dɪˈpɪkt/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "represent by a drawing, painting, or other art form.",
+                    "home": "लिखना; वर्णन करना; चित्रण करना",
+                    "synonym": "portray, represent, picture, illustrate"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Deplorable",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "John’s deplorable behavior is going to get him arrested one day.",
+                "pronounciation": "/dɪˈplɔːrəb(ə)l/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "deserving strong condemnation; completely unacceptable;shockingly bad in quality",
+                    "home": "खेदजनक; खोटा;दुःखद",
+                    "synonym": "shameful,dishonourable, disreputable"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Deploy",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The police officer hoped he would not have to deploy his weapon.",
+                "pronounciation": "/dɪˈplɔɪ/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "place troops or weapons in battle formation; to distribute systematically or strategically",
+                    "home": "परिनियोजन करना;फैलाना",
+                    "synonym": "station, post, place, install"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Deprecate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Unfortunately my mother-in-law’s urge to deprecate me is stronger than her urge to inspire me.",
+                "pronounciation": "/ˈdɛprɪkeɪt/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "express strong disapproval of; deplore",
+                    "home": "निन्दा करना; बिनती करना",
+                    "synonym": "deplore, abhor,detest"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Deride",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When I am a parent, I will not deride my children and make them feel worthless.",
+                "pronounciation": "/dɪˈrʌɪd/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "treat or speak of with contempt",
+                    "home": "उपहास करना; मजाक बनाना",
+                    "synonym": "	ridicule, mock"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Derived",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Although he’s still sad his mother is gone, Jason derived great comfort in knowing that she in heaven.",
+                "pronounciation": "/dɪˈraɪvd/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "formed or developed from something else; not original",
+                    "home": "उत्पन्न; व्युत्पद",
+                    "synonym": "	obtained,gained"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Derogatory",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The restaurant’s derogatory name caused people to avoid eating there.",
+                "pronounciation": "/dɪˈrɒɡət(ə)ri/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "conveying a poor opinion of something or someone",
+                    "home": " मानहर;अल्पकारी; लज्जाजनक",
+                    "synonym": "slighting, deprecatory"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Desiccate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Without water, the crops quickly became desiccated",
+                "pronounciation": "/ˈdɛsɪkeɪt/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "remove the moisture from (something); cause to become completely dry.",
+                    "home": "सुखाना; सूख जाना",
+                    "synonym": "dried,dry"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Desist",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "A scared dog uses his bark to encourage strangers to desist from coming into his territory.",
+                "pronounciation": "/dɪˈzɪst,dɪˈsɪst/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "choose not to consume;to stop doing something",
+                    "home": "हटना; छोड़ देना; बन्द करना",
+                    "synonym": "abstain, refrain, forbear"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Desuetude",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The dusty typewriter has been in desuetude for over four decades.",
+                "pronounciation": "/ˈdɛswɪtjuːd,dəˈsjuːətjuːd/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a state of inactivity or disuse",
+                    "home": "अप्रचलन;अव्यवहार",
+                    "synonym": "disuse, idleness, inactivity"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Desultory",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The students were confused by the teacher’s desultory lecture which seemed to have no real focus.",
+                "pronounciation": "/ˈdɛs(ə)lt(ə)ri,ˈdɛz(ə)lt(ə)ri/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "marked by lack of definite plan or regularity or purpose; jumping from one thing to another",
+                    "home": "अनियमित;असंगत;असंबद्ध",
+                    "synonym": "superficial, token, perfunctory"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Deterrent",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "My daughter views the loss of cellphone privileges as a cruel deterrent against having bad grades.",
+                "pronounciation": "/dɪˈtɛr(ə)nt/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a thing that discourages someone from doing something",
+                    "home": "धमकानेवाला",
+                    "synonym": "damper, brake, curb, check"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Deteriment",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Many suspect the building of the chemical plant is going to be a detriment to the town’s freshwater supply.",
+                "pronounciation": "/ˈdɛtrɪm(ə)nt/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an event or item that inflicts damage to an individual or thing",
+                    "home": "हानि",
+                    "synonym": "harm, damage, injury, hurt"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Detraction",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "And it’s done now, without doubt or any possible detraction",
+                "pronounciation": "/ di-ˈtrak-shən/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the act of discrediting or detracting from someone's reputation (especially by slander)",
+                    "home": "अपकर्षण;अपवाद",
+                    "synonym": " deprecation, derogation"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Devout",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "It takes more than one devout employee to make a successful business.",
+                "pronounciation": "/dɪˈvaʊt/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "very religious or strongly committed to a belief or cause",
+                    "home": "हार्दिक; श्रद्धालु;गम्भीर; तपस्वी",
+                    "synonym": "religious, devoted, dedicated"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Dexterity",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because her finger dexterity was so strong, Katniss was an excellent archer and hunter.",
+                "pronounciation": "/dɛkˈstɛrɪti/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the ability to perform a task both quickly and skillfully",
+                    "home": "कौशल;चतुरता; तेज़ी",
+                    "synonym": "agility, nimbleness,skill"
                 }
         },
-        {
-                "id": "c9999",
-                "name": "Dexterity",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
-                "alphabet" : "D",
-                "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
-                }
-        },
+      
         {
                 "id": "c9999",
                 "name": "Diaphanous",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because Ellen’s shirt is diaphanous, she must keep her jacket on at all times.",
+                "pronounciation": "/dʌɪˈaf(ə)nəs/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "very sheer and light; almost completely transparent or translucent",
+                    "home": "पारदर्शी; स्पष्ट",
+                    "synonym": "delicate,lightweight, thin"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Diatribe n.",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The candidate made a diatribe against his opponent.",
+                "pronounciation": "/ˈdʌɪətrʌɪb/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "abusive speech or of;thunderous verbal attack",
+                    "home": "आक्षेप;निंदा;विवाद",
+                    "synonym": "criticism, stricture, reproof, reproval, reprimand"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Dichotomy",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Nature or nurture is a dichotomy which has long been debated by scholars.",
+                "pronounciation": "/dʌɪˈkɒtəmi,dɪˈkɒtəmi/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a difference between two opposite things or ideas",
+                    "home": " द्विभाजन",
+                    "synonym": "division, separation"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Diffidence",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "You shouldn’t be so diffidence about your achievements when you’ve done very well.",
+                "pronounciation": "/ˈdɪfɪd(ə)ns/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the state of being timid or shy;lack of self-confident",
+                    "home": "लज्जा; विनय; संकोच",
+                    "synonym": "self-effacement, humility, "
                 }
         },
         {
                 "id": "c9999",
                 "name": "Diffuse",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "In order to diffuse the crowd from the entrance, they asked that the people form lines. ",
+                "pronounciation": "/dɪˈfjuːz/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to spread out over a large area",
+                    "home": "उड़ेलना; छितराना; फैलाना",
+                    "synonym": "scatter, disperse"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Dilettante",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because Peter studied music composition for eight years, he is definitely not a dilettante in the field of music.",
+                "pronounciation": "/ˌdɪlɪˈtanteɪ,ˌdɪlɪˈtanti/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a person whose interest in an art or in an area of knowledge is not very serious",
+                    "home": "प्रेमी; शौक़ीन; कलाप्रेमी",
+                    "synonym": "amateur, non-professional, non-specialist"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Diffuse adj.",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The gardener’s job was to diffuse the seeds all over the land.",
+                "pronounciation": "/dɪˈfjuːs/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "spread out; not concentrated in one place;lacking conciseness",
+                    "home": "असंगठित; तितर-बितर",
+                    "synonym": "scattered,protracted, discursive,rambling"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Digression",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Playing football during the winter was a digression for the baseball star.",
+                "pronounciation": "/dʌɪˈɡrɛʃ(ə)n/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a temporary departure from the main subject in speech or writing",
+                    "home": "झुकना; झुकाव; विचलन",
+                    "synonym": "deviation, detour, diversion, departure"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Diminutive",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Although Jason is diminutive in height, he is still a remarkable player.",
+                "pronounciation": "/dɪˈmɪnjʊtɪv/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "very small",
+                    "home": "अल्पार्थक; छोटा",
+                    "synonym": "	tiny, small, little, dwarf, minute"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Dirge",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When Kim sang a dirge for her deceased father, she brought everyone to tears. ",
+                "pronounciation": "/dəːdʒ/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a song or hymn of mourning composed or performed as a memorial to a dead person",
+                    "home": "मरसिया; रोना; विलाप",
+                    "synonym": "requiem,lament"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Disabuse",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "If you wish to continue to believe that falsehood, I will not disabuse you by telling you the truth. ",
+                "pronounciation": "/ˌdɪsəˈbjuːz/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "persuade (someone) that an idea or belief is mistaken",
+                    "home": "धोखा होने से बचाना; भ्रम निवारण",
+                    "synonym": "disillusion, undeceive, correct"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Discern",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "It was not difficult to discern that Ellen killed her husband for the million dollar life insurance policy.",
+                "pronounciation": "/dɪˈsəːn/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to be able to see, recognize, understand, or decide something",
+                    "home": "जानना; देखना;नापना",
+                    "synonym": "detect, recognize, notice"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Disciple",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "After seeing his resurrection, the disciple of Christ set out to spread his message throughout the land.",
+                "pronounciation": "/dɪˈsʌɪp(ə)l/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "someone who believes and helps to spread the doctrine of another",
+                    "home": "अनुगामी;अनुयायी;चेला",
+                    "synonym": "follower, adherent, believer, admirer"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Discomfit",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The mob boss will try and discomfit the witness by threatening his family.",
+                "pronounciation": "/dɪsˈkʌmfɪt/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "cause to lose one's composure;to make a person feel uncomfortable",
+                    "home": "योजना भंग करना;हरा देना",
+                    "synonym": "discompose, discomfort,embarrass"
                 }
         },
         {
@@ -5086,61 +5075,61 @@
         {
                 "id": "c9999",
                 "name": "Dubious",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I had the feeling Charlie’s dubious plan would never work. ",
+                "pronounciation": "/ˈdjuːbɪəs/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "not convinced; open to doubt or suspicion",
+                    "home": "उभयार्थक; संदिग्ध; संदेहात्मक",
+                    "synonym": "	doubtful, uncertain, unsure"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Dulcet",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Last night I fell asleep listening to the dulcet sounds of soft jazz.",
+                "pronounciation": "/ˈdʌlsɪt/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "pleasing to the ear;extremely pleasant in a gentle way",
+                    "home": "श्रुतिमधुर सुरीला आनंदकर ",
+                    "synonym": "soothing, mellow, pleasant"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Dupe",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Matt tried to dupe the little boy into giving away his lunch money.",
+                "pronounciation": "/djuːp/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "fool or hoax;a person who is tricked or swindled",
+                    "home": "ठगना;धोखा देना; बेवकूफ़ बनाना",
+                    "synonym": "deceive, trick, hoodwink,fool"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Duplicity",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because Amanda is such a good liar, it is always hard to recognize her duplicity.",
+                "pronounciation": "/djuːˈplɪsɪti/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "dishonest behavior that is intended to trick someone",
+                    "home": "कपट; छल",
+                    "synonym": "deceit, deception,fraud"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Duress",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "There are plenty of stories of how people can suddenly acquire superhuman strength when under duress.",
+                "pronounciation": "/djʊ(ə)ˈrɛs,ˈdjʊərɛs/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "compulsory force or threat",
+                    "home": "अवरोध; कारावास; कैद",
+                    "synonym": "compulsion, force, pressure"
                 }
         },
         {
